@@ -1,7 +1,7 @@
 Integrantes do trabalho de AG APP 3
 
--Ellen
--Laura
+-Ellen Lopes De Souza
+-Laura Brilhante Torrano
 -Pedro Henrique Pereira
 -Thalita de Oliveira Terrazan
 
